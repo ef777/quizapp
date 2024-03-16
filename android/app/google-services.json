@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712998573671",
+    "project_id": "acik-soru",
+    "storage_bucket": "acik-soru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712998573671:android:68a2b89e86eae2f33d26c2",
+        "android_client_info": {
+          "package_name": "com.aciksoru.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFv59E0G-_62fEB9wmnjCMD4REH1WgCYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
